@@ -117,9 +117,3 @@ Pour vérifier les fuites mémoire :
 ```bash
 valgrind --leak-check=full ./interpréteur
 ```
-
-
-## Autrices
-- [ATHOUMANI AHAMADA Nouzouhati](https://gitlab.esiea.fr/athoumaniahama)
-- [DOSSO Aminata](https://gitlab.esiea.fr/adosso)
-- [GNAMBLOHOU Sessi Laurine](https://gitlab.esiea.fr/gnamblohou)
